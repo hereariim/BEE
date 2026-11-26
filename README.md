@@ -22,5 +22,6 @@ La séance du 27 novembre 2026 présente des applications de l’intelligence ar
 | [Exercice 1](TP1/Exercice%201/) | Quatre images PNG |
 | [Exercice 2](TP1/Exercice%202/) | Une image JPEG |
 | [Exercice 3](TP1/Exercice%203/) | Une image JPEG |
+| [Exercices](https://docs.google.com/document/d/1dIxH26SF33fDUVjqdxl3vPMiTSy8N9covU0O3JR8U0U/edit?usp=sharing) | Google Docs |
 
 Ouvrez le diaporama pour suivre la séance. Pour récupérer toutes les images à la fois depuis GitHub, utilisez **Code → Download ZIP**.
