@@ -11,12 +11,14 @@ La séance du 27 novembre 2026 présente des applications de l’intelligence ar
 - Prendre en main des outils de vision par ordinateur existants, dont Pl@ntNet, Roboflow Universe et Segment Anything.
 - Comprendre comment un réseau de neurones apprend à reconnaître des motifs dans une image.
 - Explorer l’effet du nombre de couches et de neurones sur les résultats dans TensorFlow Playground.
+- Découvrir comment les filtres d’un réseau convolutif extraient des caractéristiques d’une image.
+- Préparer un jeu de données et distinguer les étapes d’entraînement, de validation et de test.
 
 ## Supports du TP 1
 
 | Ressource | Contenu |
 | --- | --- |
-| [Diaporama de la séance](TP1/v2%202026%20BEE%20Seance0.pdf) | Exemples d’application, présentation des outils et activités du TP |
+| [Diaporama de la séance](TP1/v3%202026%20BEE%20Seance0.pdf) | Applications en écologie, activités du TP, réseaux convolutifs et conception d’un modèle |
 | [Exercice 1](TP1/Exercice%201/) | Quatre images PNG |
 | [Exercice 2](TP1/Exercice%202/) | Une image JPEG |
 | [Exercice 3](TP1/Exercice%203/) | Une image JPEG |
